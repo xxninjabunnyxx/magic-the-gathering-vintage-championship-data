@@ -1,0 +1,15 @@
+---
+object: set
+id: c6a6b61b-143a-43f2-b74d-b140f3d93490
+code: ovnt
+name: Vintage Championship
+uri: https://api.scryfall.com/sets/c6a6b61b-143a-43f2-b74d-b140f3d93490
+scryfall_uri: https://scryfall.com/sets/ovnt
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aovnt&unique=prints
+released_at: '2003-01-01'
+set_type: memorabilia
+card_count: 32
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pmei.svg?1694404800
